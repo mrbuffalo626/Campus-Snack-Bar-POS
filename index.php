@@ -204,7 +204,7 @@ $products = [
                 <div class="d-flex flex-wrap align-items-end justify-content-between gap-3 mb-4">
                     <div>
                         <div class="eyebrow mb-2">GOOD FOOD, GOOD DAY <span aria-hidden="true">✦</span></div>
-                        <h1 class="page-heading mb-2" id="menu-heading">What sounds good?</h1>
+                        <h1 class="page-heading mb-2" id="menu-heading">Tomboy akong katapad!</h1>
                         <p class="text-secondary small mb-0">Pick a snack and add it to your order.</p>
                     </div>
                     <span class="section-label">TODAY'S MENU</span>
